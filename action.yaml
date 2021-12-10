@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: Tweeter Action Morgan
+author: gaomengen
+description: Simple action to send a tweet via an GitHub Action by Morgan.
 inputs:
   message:
     description: 'message you want to tweet'
